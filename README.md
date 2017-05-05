@@ -15,11 +15,11 @@ Baseline papers about deep coding ordered by task, date. For each paper there is
 ## Dialog
 ### Diversity
 
-|Title|Year|Venue|Paper|Data|Code|Labels|
-|---|---|---|---|---|---|---|
-| Smart Reply: Automated Response Suggestion for Email | _2016_ | KDD | [paper](https://github.com/DeepSE/DeepCodingBaselines/raw/master/papers/smart-reply.pdf)| | |Labels|
-| A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues | _2017_  | AAAI | [paper](https://github.com/DeepSE/DeepCodingBaselines/raw/master/papers/!2017AAAI-A-Hierarchical-Latent-Variable-Encoder-Decoder-Model-for-Generating-Dialogues.pdf) | |[github](https://github.com/julianser/hed-dlg-truncated) | _None_ | 
-| Latent Variable Dialogue Models and their Diversity | _2017_ | EACL |  | | | _None_ | 
-| Generating Long and Diverse Responses with Neural Conversation Models | _2017_ | ICLR |  | | | _None_ | 
-| Diverse Beam Search:Decoding Diverse Solutions from Neural Sequence Models | _2016_ |  | | | _None_ | 
+|No|Title|Year|Venue|Paper|Data|Code|Labels|
+|---|---|---|---|---|---|---|---|
+|1| Smart Reply: Automated Response Suggestion for Email | _2016_ | KDD | [paper](https://github.com/DeepSE/DeepCodingBaselines/raw/master/papers/smart-reply.pdf)| | |Labels|
+|2| A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues | _2017_  | AAAI | [paper](https://github.com/DeepSE/DeepCodingBaselines/raw/master/papers/!2017AAAI-A-Hierarchical-Latent-Variable-Encoder-Decoder-Model-for-Generating-Dialogues.pdf) | |[github](https://github.com/julianser/hed-dlg-truncated) | _None_ | 
+|3|Latent Variable Dialogue Models and their Diversity | _2017_ | EACL |  | | | _None_ | 
+|4| Generating Long and Diverse Responses with Neural Conversation Models | _2017_ | ICLR |  | | | _None_ | 
+|5| Diverse Beam Search:Decoding Diverse Solutions from Neural Sequence Models | _2016_ |  | | | _None_ | 
 
