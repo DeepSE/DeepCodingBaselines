@@ -4,20 +4,23 @@ Baseline papers about deep coding ordered by task, date. For each paper there is
 1. [Dialogue](#dialog)
 
 	1.1. [Datasets](#data-dialog)
+	
 	1.2. [Dieversity](#dieversity)
 	
 2. [Code Generation](#code-gen)
+
 	2.1. [Datasets](#data-codegen)
 
 3. [Code Completion](#code-complete)
+
 	3.1. [Datasets](#data-codecompl)
 
 ## Dialog
 ### Datasets
 |No|Title|Paper|Blog|Code|
 |---|---|---|---|---|
-|1|[Ubuntu Dialogue Corpus](https://drive.google.com/open?id=0B_bZck-ksdkpVEtVc1R6Y01HMWM)|[arxiv](https://arxiv.org/abs/1506.08909)|[Tutorial:chatbot-retrieval](http://www.wildml.com/2016/07/deep-learning-for-chatbots-2-retrieval-based-model-tensorflow/)|[corpus collector](https://github.com/npow/ubottu)_ [corpus collector v2](https://github.com/rkadlec/ubuntu-ranking-dataset-creator)_ [chatbot-retrieval](https://github.com/dennybritz/chatbot-retrieval)|
-|2|[OpenSubtitle](https://s3.amazonaws.com/opennmt-trainingdata/opensub_qa_en.tgz)|[arxiv](https://arxiv.org/pdf/1506.05869v3.pdf) | [Tutorial](http://forum.opennmt.net/t/english-chatbot-model-with-opennmt/184)_ [opensubtitle website](http://opus.lingfil.uu.se/OpenSubtitles.php)||
+|1|[Ubuntu Dialogue Corpus](https://drive.google.com/open?id=0B_bZck-ksdkpVEtVc1R6Y01HMWM)|[arxiv](https://arxiv.org/abs/1506.08909)|[Tutorial:chatbot-retrieval](http://www.wildml.com/2016/07/deep-learning-for-chatbots-2-retrieval-based-model-tensorflow/)|[corpus collector](https://github.com/npow/ubottu)<br/> [corpus collector v2](https://github.com/rkadlec/ubuntu-ranking-dataset-creator)<br/> [chatbot-retrieval](https://github.com/dennybritz/chatbot-retrieval)|
+|2|[OpenSubtitle](https://s3.amazonaws.com/opennmt-trainingdata/opensub_qa_en.tgz)|[arxiv](https://arxiv.org/pdf/1506.05869v3.pdf) | [Tutorial](http://forum.opennmt.net/t/english-chatbot-model-with-opennmt/184)<br/> [opensubtitle website](http://opus.lingfil.uu.se/OpenSubtitles.php)||
 |3|[Twitter Corpus](http://homes.cs.washington.edu/~aritter/twitter_chat/)| |[pdf](http://www.aclweb.org/anthology/N10-1020)| [corpus collector](https://github.com/bwbaugh/twitter-corpus)|
 
 ### Diversity
