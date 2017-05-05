@@ -25,11 +25,11 @@ Baseline papers about deep coding ordered by task, date. For each paper there is
 
 ### Diversity
 
-|No|Title|Year|Venue|Paper|Data|Code|Labels|
-|---|---|---|---|---|---|---|---|
-|1| Smart Reply: Automated Response Suggestion for Email | _2016_ | KDD | [paper](https://github.com/DeepSE/DeepCodingBaselines/raw/master/papers/smart-reply.pdf)| | |Labels|
-|2| A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues | _2017_  | AAAI | [paper](https://github.com/DeepSE/DeepCodingBaselines/raw/master/papers/!2017AAAI-A-Hierarchical-Latent-Variable-Encoder-Decoder-Model-for-Generating-Dialogues.pdf) | |[github](https://github.com/julianser/hed-dlg-truncated) | _None_ | 
-|3|Latent Variable Dialogue Models and their Diversity | _2017_ | EACL |  | | | _None_ | 
-|4| Generating Long and Diverse Responses with Neural Conversation Models | _2017_ | ICLR |  | | | _None_ | 
-|5| Diverse Beam Search:Decoding Diverse Solutions from Neural Sequence Models | _2016_ |  | | | _None_ | 
+|No|Title|Year|Venue|Paper|Data|Code|Blog|Labels|
+|---|---|---|---|---|---|---|---|---|
+|1| Smart Reply: Automated Response Suggestion for Email | _2016_ | KDD | [paper](https://github.com/DeepSE/DeepCodingBaselines/raw/master/papers/smart-reply.pdf)| | | [paper notes](https://gist.github.com/shagunsodhani/da411f15b71ed6a664f9d5ac46409b42)| | 
+|2| A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues | _2017_  | AAAI | [paper](https://github.com/DeepSE/DeepCodingBaselines/raw/master/papers/!2017AAAI-A-Hierarchical-Latent-Variable-Encoder-Decoder-Model-for-Generating-Dialogues.pdf) | |[github](https://github.com/julianser/hed-dlg-truncated) | _None_ | |
+|3|Latent Variable Dialogue Models and their Diversity | _2017_ | EACL |  | | | _None_ |  |
+|4| Generating Long and Diverse Responses with Neural Conversation Models | _2017_ | ICLR |  | | | _None_ |  |
+|5| Diverse Beam Search:Decoding Diverse Solutions from Neural Sequence Models | _2016_ |  | | | _None_ |  |
 
