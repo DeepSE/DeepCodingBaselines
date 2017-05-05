@@ -6,18 +6,18 @@ Baseline papers about deep coding ordered by task, date. For each paper there is
 	1.1. [Datasets](#data-dialog)
 	
 	1.2. [Dieversity](#dieversity)
+
+2. [Code Completion](#code-complete)
+
+	3.1. [Datasets](#data-codecompl)
 	
-2. [Code Generation](#code-gen)
+3. [Code Generation](#code-gen)
 
 	2.1. [Datasets](#data-codegen)
 
-3. [Code Completion](#code-complete)
-
-	3.1. [Datasets](#data-codecompl)
-
 ## Dialog
 ### Datasets
-|No|Title|Paper|Blog|Code|
+|No|Title|Paper|Blogs|Code|
 |---|---|---|---|---|
 |1|[Ubuntu Dialogue Corpus](https://drive.google.com/open?id=0B_bZck-ksdkpVEtVc1R6Y01HMWM)|[arxiv](https://arxiv.org/abs/1506.08909)|[Tutorial:chatbot-retrieval](http://www.wildml.com/2016/07/deep-learning-for-chatbots-2-retrieval-based-model-tensorflow/)|[corpus collector](https://github.com/npow/ubottu)<br/> [corpus collector v2](https://github.com/rkadlec/ubuntu-ranking-dataset-creator)<br/> [chatbot-retrieval](https://github.com/dennybritz/chatbot-retrieval)|
 |2|[OpenSubtitle](https://s3.amazonaws.com/opennmt-trainingdata/opensub_qa_en.tgz)|[arxiv](https://arxiv.org/pdf/1506.05869v3.pdf) | [Tutorial](http://forum.opennmt.net/t/english-chatbot-model-with-opennmt/184)<br/> [opensubtitle website](http://opus.lingfil.uu.se/OpenSubtitles.php)||
@@ -25,7 +25,7 @@ Baseline papers about deep coding ordered by task, date. For each paper there is
 
 ### Diversity
 
-|No|Title|Paper|Data|Code|Blog|Labels|
+|No|Title|Paper|Data|Code|Blogs|Labels|
 |---|---|---|---|---|---|---|
 |1| Random Predictor | | | | | | 
 |2| TF-IDF Predictor | | | | | |
@@ -35,4 +35,50 @@ Baseline papers about deep coding ordered by task, date. For each paper there is
 |6| Latent Variable Dialogue Models and their Diversity | EACL_2017   |  |  | _None_ |  |
 |7| Generating Long and Diverse Responses with Neural Conversation Models | ICLR_2017  | |  | _None_ |  |
 |8| Diverse Beam Search:Decoding Diverse Solutions from Neural Sequence Models | 2016 |  |  | _None_ |  |
+
+
+## Code Completion
+
+### Data sets
+
+### Papers
+
+|No|Title|Paper|Data|Code|Blogs|Labels|
+|---|---|---|---|---|---|---|
+|1|n-gram| | | | | |
+|2|(RNN) Toward deep learning software repositories | [MSR 2015](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.714.5031&rep=rep1&type=pdf) | | | | |
+|3| Code completion with statistical language models| [PLDI 2014](http://www.srl.inf.ethz.ch/papers/pldi14-statistical.pdf)| | | | |
+|3|Learning Python Code Suggestion with a Sparse Pointer Network| [Arxiv 2017](https://arxiv.org/abs/1611.08307)| | [github](https://github.com/uclmr/pycodesuggest) | | |
+
+## Clone Detection
+### Data sets
+
+### Papers
+|No|Title|Paper|Data|Code|Blogs|Labels|
+|---|---|---|---|---|---|---|
+|1|Deep Learning Code Fragments for Code Clone Detection| [ASE 2016](http://www.cs.wm.edu/~denys/pubs/ASE'16-DeepLearningClones.pdf) | | | | |
+
+## Bug Localization
+### Data Sets
+### Papers
+|No|Title|Paper|Data|Code|Blogs|Labels|
+|---|---|---|---|---|---|---|
+|1|Learning Unified Features from Natural and Programming Languages for Locating Buggy Source Code | [IJCAI 2016](https://pdfs.semanticscholar.org/7848/5ab466e1a83e7965500cceab476b55d145c0.pdf)| | | | |
+
+## Code Summarization
+|No|Title|Paper|Data|Code|Blogs|Labels|
+|---|---|---|---|---|---|---|
+|1| Summarizing Source Code using a Neural Attention Model| [ACL 2016](https://www.aclweb.org/anthology/P/P16/P16-1195.pdf)| [stack overflow](https://github.com/sriniiyer/codenn/tree/master/data/stackoverflow) | [github](https://github.com/sriniiyer/codenn)
+
+## Commit/Change Summarization
+
+|No|Title|Paper|Data|Code|Blogs|Labels|
+|---|---|---|---|---|---|---|
+|1|A Neural Architecture for Generating Natural Language Descriptions from Source Code Changes| [ACL 2017](https://arxiv.org/abs/1704.04856)| [data](https://osf.io/67kyc/?view_only=ad588fe5d1a14dd795553fb4951b5bf9) | [github](https://github.com/epochx/commitgen)| | |
+
+
+
+
+
+
 
