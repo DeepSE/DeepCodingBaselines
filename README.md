@@ -7,13 +7,12 @@ Baseline papers about deep coding ordered by task, date. For each paper there is
 
 	1.2. [Others](#other)
 	
-2. [Code Generation] (#code-gen)
+2. [Code Generation](#code-gen)
 
 
 3. [Code Completion](#code-complete)
 
 ## Dialog
-
 ### Diversity
 
 |Title|Year|Venue|Paper|Data |Code|Labels|
