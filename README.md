@@ -26,7 +26,7 @@ Baseline papers about deep coding ordered by task, date. For each paper there is
 ### Diversity
 
 |No|Title|Paper|Data|Code|Blog|Labels|
-|---|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|
 |1| Random Predictor | | | | | | 
 |2| TF-IDF Predictor | | | | | |
 |3| Dual Encoder LSTM | [SigDial_2015](https://arxiv.org/abs/1506.08909)| [ubuntu corpus](https://drive.google.com/open?id=0B_bZck-ksdkpVEtVc1R6Y01HMWM) | [chatbot-retrieval](https://github.com/dennybritz/chatbot-retrieval)|[tutorial](http://www.wildml.com/2016/07/deep-learning-for-chatbots-2-retrieval-based-model-tensorflow/)| |
