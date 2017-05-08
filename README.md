@@ -15,11 +15,9 @@ Baseline papers about deep coding. For each paper there is a permanent link, whi
     * Code: [chatbot-retrieval](https://github.com/dennybritz/chatbot-retrieval)
     * Tutorial:[chatbot-retrieval](http://www.wildml.com/2016/07/deep-learning-for-chatbots-2-retrieval-based-model-tensorflow/)
 
-3. \[Dialogue\] A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues (AAAI_2017)
-
-+ Paper: [pdf](https://github.com/DeepSE/DeepCodingBaselines/raw/master/papers/!2017AAAI-A-Hierarchical-Latent-Variable-Encoder-Decoder-Model-for-Generating-Dialogues.pdf) 
-
-+ Code: [github](https://github.com/julianser/hed-dlg-truncated) 
+1. \[Dialogue\] A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues (AAAI_2017)
+    * Paper: [pdf](https://github.com/DeepSE/DeepCodingBaselines/raw/master/papers/!2017AAAI-A-Hierarchical-Latent-Variable-Encoder-Decoder-Model-for-Generating-Dialogues.pdf) 
+    * Code: [github](https://github.com/julianser/hed-dlg-truncated) 
 
 4. \[Dialogue\] Latent Variable Dialogue Models and their Diversity (EACL_2017) 
 
