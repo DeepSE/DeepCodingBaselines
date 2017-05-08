@@ -5,95 +5,95 @@ Baseline papers about deep coding. For each paper there is a permanent link, whi
 ## Baselines
 1. \[Dialogue\] Smart Reply: Automated Response Suggestion for Email (KDD_2016)
 
-<space><space><space><space> Paper: [pdf](https://github.com/DeepSE/DeepCodingBaselines/raw/master/papers/smart-reply.pdf)
++ Paper: [pdf](https://github.com/DeepSE/DeepCodingBaselines/raw/master/papers/smart-reply.pdf)
 
-<space><space><space><space> Data: TBD
++ Data: TBD
 
-<space><space><space><space> Code: TBD
++ Code: TBD
 
-<space><space><space><space> Notes: [gitgist:](https://gist.github.com/shagunsodhani/da411f15b71ed6a664f9d5ac46409b42)
++ Notes: [gitgist:](https://gist.github.com/shagunsodhani/da411f15b71ed6a664f9d5ac46409b42)
 
 2. \[Dialogue\] Dual Encoder LSTM (SigDial_2015)
 
-<space><space><space><space> Paper: [arxiv](https://arxiv.org/abs/1506.08909)
++ Paper: [arxiv](https://arxiv.org/abs/1506.08909)
 
-<space><space><space><space> Data: [ubuntu corpus](https://drive.google.com/open?id=0B_bZck-ksdkpVEtVc1R6Y01HMWM) 
++ Data: [ubuntu corpus](https://drive.google.com/open?id=0B_bZck-ksdkpVEtVc1R6Y01HMWM) 
 
-<space><space><space><space> Code: [chatbot-retrieval](https://github.com/dennybritz/chatbot-retrieval)
++ Code: [chatbot-retrieval](https://github.com/dennybritz/chatbot-retrieval)
 
-<space><space><space><space> Tutorial:[chatbot-retrieval](http://www.wildml.com/2016/07/deep-learning-for-chatbots-2-retrieval-based-model-tensorflow/)
++ Tutorial:[chatbot-retrieval](http://www.wildml.com/2016/07/deep-learning-for-chatbots-2-retrieval-based-model-tensorflow/)
 
 3. \[Dialogue\] A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues (AAAI_2017)
 
-<space><space><space><space> Paper: [pdf](https://github.com/DeepSE/DeepCodingBaselines/raw/master/papers/!2017AAAI-A-Hierarchical-Latent-Variable-Encoder-Decoder-Model-for-Generating-Dialogues.pdf) 
++ Paper: [pdf](https://github.com/DeepSE/DeepCodingBaselines/raw/master/papers/!2017AAAI-A-Hierarchical-Latent-Variable-Encoder-Decoder-Model-for-Generating-Dialogues.pdf) 
 
-<space><space><space><space> Code: [github](https://github.com/julianser/hed-dlg-truncated) 
++ Code: [github](https://github.com/julianser/hed-dlg-truncated) 
 
 4. \[Dialogue\] Latent Variable Dialogue Models and their Diversity (EACL_2017) 
 
-<space><space><space><space> Paper: [pdf]()
++ Paper: [pdf]()
 
-<space><space><space><space> Code: TBD
++ Code: TBD
 
 5. \[Dialogue\] Generating Long and Diverse Responses with Neural Conversation Models (ICLR_2017)
 
-<space><space><space><space> Paper: [pdf]()
++ Paper: [pdf]()
 
-<space><space><space><space> Code: TBD
++ Code: TBD
 
 6. \[Dialogue\] Diverse Beam Search:Decoding Diverse Solutions from Neural Sequence Models (2016)
 
-<space><space><space><space> Paper: [pdf]()
++ Paper: [pdf]()
 
-<space><space><space><space> Code: TBD
++ Code: TBD
 
 7. \[Code Completion\] Toward deep learning software repositories (MSR 2015)
 
-<space><space><space><space> Paper: [pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.714.5031&rep=rep1&type=pdf)
++ Paper: [pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.714.5031&rep=rep1&type=pdf)
 
-<space><space><space><space> Code: TBD
++ Code: TBD
 
 8. \[Code Completion\] Code completion with statistical language models (PLDI 2014) 
 
-<space><space><space><space> Paper: [pdf](http://www.srl.inf.ethz.ch/papers/pldi14-statistical.pdf)
++ Paper: [pdf](http://www.srl.inf.ethz.ch/papers/pldi14-statistical.pdf)
 
-<space><space><space><space> Code: TBD
++ Code: TBD
 
 9. \[Code Completion\] Learning Python Code Suggestion with a Sparse Pointer Network (2017)
 
-<space><space><space><space> Paper: [Arxiv](https://arxiv.org/abs/1611.08307)
++ Paper: [Arxiv](https://arxiv.org/abs/1611.08307)
 
-<space><space><space><space> Code: [github](https://github.com/uclmr/pycodesuggest) 
++ Code: [github](https://github.com/uclmr/pycodesuggest) 
 
 
 10. \[Code Clone Detection\] Deep Learning Code Fragments for Code Clone Detection (ASE 2016)
 
-<space><space><space><space> Paper: [pdf](http://www.cs.wm.edu/~denys/pubs/ASE'16-DeepLearningClones.pdf)
++ Paper: [pdf](http://www.cs.wm.edu/~denys/pubs/ASE'16-DeepLearningClones.pdf)
 
-<space><space><space><space> Code: TBD
++ Code: TBD
 
 
 11. \[Bug Localization\] Learning Unified Features from Natural and Programming Languages for Locating Buggy Source Code (IJCAI 2016)
 
-<space><space><space><space> Paper: [pdf](https://pdfs.semanticscholar.org/7848/5ab466e1a83e7965500cceab476b55d145c0.pdf)
++ Paper: [pdf](https://pdfs.semanticscholar.org/7848/5ab466e1a83e7965500cceab476b55d145c0.pdf)
 
-<space><space><space><space> Code: TBD
++ Code: TBD
 
 12. \[Code Summarization\] Summarizing Source Code using a Neural Attention Model (ACL 2016)
 
-<space><space><space><space> Paper: [pdf](https://www.aclweb.org/anthology/P/P16/P16-1195.pdf)
++ Paper: [pdf](https://www.aclweb.org/anthology/P/P16/P16-1195.pdf)
 
-<space><space><space><space> Data: [stack overflow](https://github.com/sriniiyer/codenn/tree/master/data/stackoverflow) 
++ Data: [stack overflow](https://github.com/sriniiyer/codenn/tree/master/data/stackoverflow) 
 
-<space><space><space><space> Code: [github](https://github.com/sriniiyer/codenn)
++ Code: [github](https://github.com/sriniiyer/codenn)
 
 13. \[Commit Summarization\] A Neural Architecture for Generating Natural Language Descriptions from Source Code Changes (ACL 2017)
 
-<space><space><space><space> Paper: [arxiv](https://arxiv.org/abs/1704.04856)
++ Paper: [arxiv](https://arxiv.org/abs/1704.04856)
 
-<space><space><space><space> Data: [link](https://osf.io/67kyc/?view_only=ad588fe5d1a14dd795553fb4951b5bf9)
++ Data: [link](https://osf.io/67kyc/?view_only=ad588fe5d1a14dd795553fb4951b5bf9)
 
-<space><space><space><space> Code: [github](https://github.com/epochx/commitgen)
++ Code: [github](https://github.com/epochx/commitgen)
 
 
 
