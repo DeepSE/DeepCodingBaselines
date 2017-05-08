@@ -19,17 +19,13 @@ Baseline papers about deep coding. For each paper there is a permanent link, whi
     * Paper: [pdf](https://github.com/DeepSE/DeepCodingBaselines/raw/master/papers/!2017AAAI-A-Hierarchical-Latent-Variable-Encoder-Decoder-Model-for-Generating-Dialogues.pdf) 
     * Code: [github](https://github.com/julianser/hed-dlg-truncated) 
 
-4. \[Dialogue\] Latent Variable Dialogue Models and their Diversity (EACL_2017) 
+1. \[Dialogue\] Latent Variable Dialogue Models and their Diversity (EACL_2017) 
+    * Paper: [pdf]()
+    * Code: TBD
 
-+ Paper: [pdf]()
-
-+ Code: TBD
-
-5. \[Dialogue\] Generating Long and Diverse Responses with Neural Conversation Models (ICLR_2017)
-
-+ Paper: [pdf]()
-
-+ Code: TBD
+1. \[Dialogue\] Generating Long and Diverse Responses with Neural Conversation Models (ICLR_2017)
+    * Paper: [pdf]()
+    * Code: TBD
 
 6. \[Dialogue\] Diverse Beam Search:Decoding Diverse Solutions from Neural Sequence Models (2016)
 
