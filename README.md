@@ -9,7 +9,7 @@ Baseline papers about deep coding. For each paper there is a permanent link, whi
     * Results: ?
     * Notes: [gitgist:](https://gist.github.com/shagunsodhani/da411f15b71ed6a664f9d5ac46409b42)
 
-2. \[Dialogue\] Dual Encoder LSTM (SigDial_2015)
+1. \[Dialogue\] Dual Encoder LSTM (SigDial_2015)
     * Paper: [arxiv](https://arxiv.org/abs/1506.08909)
     * Data: [ubuntu corpus](https://drive.google.com/open?id=0B_bZck-ksdkpVEtVc1R6Y01HMWM) 
     * Code: [chatbot-retrieval](https://github.com/dennybritz/chatbot-retrieval)
