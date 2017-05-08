@@ -4,13 +4,12 @@ Baseline papers about deep coding. For each paper there is a permanent link, whi
 
 ## Baselines
 1. \[Dialogue\] Smart Reply: Automated Response Suggestion for Email (KDD_2016)
-
   * Paper: [pdf](https://github.com/DeepSE/DeepCodingBaselines/raw/master/papers/smart-reply.pdf)
   * Code: TBA
   * Results: ?
   * Notes: [gitgist:](https://gist.github.com/shagunsodhani/da411f15b71ed6a664f9d5ac46409b42)
 
-1. \[Dialogue\] Dual Encoder LSTM (SigDial_2015)
+2. \[Dialogue\] Dual Encoder LSTM (SigDial_2015)
   * Paper: [arxiv](https://arxiv.org/abs/1506.08909)
   * Data: [ubuntu corpus](https://drive.google.com/open?id=0B_bZck-ksdkpVEtVc1R6Y01HMWM) 
   * Code: [chatbot-retrieval](https://github.com/dennybritz/chatbot-retrieval)
