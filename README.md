@@ -3,64 +3,67 @@ Baseline papers about deep coding. For each paper there is a permanent link, whi
 
 
 ## Baselines
-1. \[Dialogue\] Smart Reply: Automated Response Suggestion for Email (KDD_2016)
+1. \[Code Completion\] Code completion with statistical language models (PLDI 2014) 
+   * Paper: [pdf](http://www.srl.inf.ethz.ch/papers/pldi14-statistical.pdf)
+   * Code: TBD
+   
+2. \[Code Completion\] Toward deep learning software repositories (MSR 2015)
+   * Paper: [pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.714.5031&rep=rep1&type=pdf)
+   * Code: TBD
+   
+3. \[Dialogue\] Dual Encoder LSTM (SigDial 2015)
+    * Paper: [arxiv](https://arxiv.org/abs/1506.08909)
+    * Data: [ubuntu corpus](https://drive.google.com/open?id=0B_bZck-ksdkpVEtVc1R6Y01HMWM) 
+    * Code: [chatbot-retrieval](https://github.com/dennybritz/chatbot-retrieval)
+    * Tutorial:[chatbot-retrieval](http://www.wildml.com/2016/07/deep-learning-for-chatbots-2-retrieval-based-model-tensorflow/)
+    
+4. \[Dialogue\] Smart Reply: Automated Response Suggestion for Email (KDD_2016)
     * Paper: [pdf](https://github.com/DeepSE/DeepCodingBaselines/raw/master/papers/smart-reply.pdf)
     * Code: TBA
     * Results: ?
     * Notes: [gitgist:](https://gist.github.com/shagunsodhani/da411f15b71ed6a664f9d5ac46409b42)
 
-1. \[Dialogue\] Dual Encoder LSTM (SigDial_2015)
-    * Paper: [arxiv](https://arxiv.org/abs/1506.08909)
-    * Data: [ubuntu corpus](https://drive.google.com/open?id=0B_bZck-ksdkpVEtVc1R6Y01HMWM) 
-    * Code: [chatbot-retrieval](https://github.com/dennybritz/chatbot-retrieval)
-    * Tutorial:[chatbot-retrieval](http://www.wildml.com/2016/07/deep-learning-for-chatbots-2-retrieval-based-model-tensorflow/)
+5. \[Bug Localization\] Learning Unified Features from Natural and Programming Languages for Locating Buggy Source Code (IJCAI 2016)
+    * Paper: [pdf](https://pdfs.semanticscholar.org/7848/5ab466e1a83e7965500cceab476b55d145c0.pdf)
+    * Code: TBD  
+    
+6. \[Code Clone Detection\] Deep Learning Code Fragments for Code Clone Detection (ASE 2016)
+    * Paper: [pdf](http://www.cs.wm.edu/~denys/pubs/ASE'16-DeepLearningClones.pdf)
+    * Code: TBD
+    
+7. \[Code Summarization\] Summarizing Source Code using a Neural Attention Model (ACL 2016)
+    * Paper: [pdf](https://www.aclweb.org/anthology/P/P16/P16-1195.pdf)
+    * Data: [stack overflow](https://github.com/sriniiyer/codenn/tree/master/data/stackoverflow) 
+    * Code: [github](https://github.com/sriniiyer/codenn)
 
-1. \[Dialogue\] A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues (AAAI_2017)
+8. \[Dialogue\] A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues (AAAI 2017)
     * Paper: [pdf](https://github.com/DeepSE/DeepCodingBaselines/raw/master/papers/!2017AAAI-A-Hierarchical-Latent-Variable-Encoder-Decoder-Model-for-Generating-Dialogues.pdf) 
     * Code: [github](https://github.com/julianser/hed-dlg-truncated) 
 
-1. \[Dialogue\] Latent Variable Dialogue Models and their Diversity (EACL 2017) 
+9. \[Dialogue\] Latent Variable Dialogue Models and their Diversity (EACL 2017) 
     * Paper: [arxiv](https://arxiv.org/abs/1702.05962)
     * Code: TBD
 
-1. \[Dialogue\] Generating Long and Diverse Responses with Neural Conversation Models (ICLR 2017)
+10. \[Dialogue\] Generating Long and Diverse Responses with Neural Conversation Models (ICLR 2017)
     * Paper: [arxiv](https://arxiv.org/abs/1701.03185)
     * Code: TBD
 
-6. \[Dialogue\] Diverse Beam Search:Decoding Diverse Solutions from Neural Sequence Models (ICLR 2017)
+11. \[Dialogue\] Diverse Beam Search:Decoding Diverse Solutions from Neural Sequence Models (ICLR 2017)
     * Paper: [arxiv](https://arxiv.org/abs/1610.02424)
     * Code: [github](https://github.com/Cloud-CV/diverse-beam-search)
 
-7. \[Code Completion\] Toward deep learning software repositories (MSR 2015)
-   * Paper: [pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.714.5031&rep=rep1&type=pdf)
-   * Code: TBD
-
-8. \[Code Completion\] Code completion with statistical language models (PLDI 2014) 
-   * Paper: [pdf](http://www.srl.inf.ethz.ch/papers/pldi14-statistical.pdf)
-   * Code: TBD
-
-9. \[Code Completion\] Learning Python Code Suggestion with a Sparse Pointer Network (2017)
-   * Paper: [Arxiv](https://arxiv.org/abs/1611.08307)
-   * Code: [github](https://github.com/uclmr/pycodesuggest) 
-
-10. \[Code Clone Detection\] Deep Learning Code Fragments for Code Clone Detection (ASE 2016)
-   * Paper: [pdf](http://www.cs.wm.edu/~denys/pubs/ASE'16-DeepLearningClones.pdf)
-   * Code: TBD
-
-11. \[Bug Localization\] Learning Unified Features from Natural and Programming Languages for Locating Buggy Source Code (IJCAI 2016)
-   * Paper: [pdf](https://pdfs.semanticscholar.org/7848/5ab466e1a83e7965500cceab476b55d145c0.pdf)
-   * Code: TBD
-
-12. \[Code Summarization\] Summarizing Source Code using a Neural Attention Model (ACL 2016)
-   * Paper: [pdf](https://www.aclweb.org/anthology/P/P16/P16-1195.pdf)
-   * Data: [stack overflow](https://github.com/sriniiyer/codenn/tree/master/data/stackoverflow) 
-   * Code: [github](https://github.com/sriniiyer/codenn)
+12. \[Code Completion\] Learning Python Code Suggestion with a Sparse Pointer Network (ICLR 2017 Submitted)
+    * Paper: [Arxiv](https://arxiv.org/abs/1611.08307)
+    * Code: [github](https://github.com/uclmr/pycodesuggest) 
 
 13. \[Commit Summarization\] A Neural Architecture for Generating Natural Language Descriptions from Source Code Changes (ACL 2017)
-   * Paper: [arxiv](https://arxiv.org/abs/1704.04856)
-   * Data: [link](https://osf.io/67kyc/?view_only=ad588fe5d1a14dd795553fb4951b5bf9)
-   * Code: [github](https://github.com/epochx/commitgen)
-
+    * Paper: [arxiv](https://arxiv.org/abs/1704.04856)
+    * Data: [link](https://osf.io/67kyc/?view_only=ad588fe5d1a14dd795553fb4951b5bf9)
+    * Code: [github](https://github.com/epochx/commitgen)
+    
+14. \[Bug Fix\] DeepFix- Fixing Common C Language Errors by Deep Learning (AAAI 2017)
+    * Paper: [pdf](http://www.iisc-seal.net/publications/aaai17.pdf?attredirects=0&d=1)
+    * Code: [projsite](http://www.iisc-seal.net/deepfix)
 
 
 ## Datasets
