@@ -1,6 +1,11 @@
 # Deep Coding Baselines
 Baseline papers about deep coding. For each paper there is a permanent link, which is either to Arxiv.org or to a mirror of the original paper in this repository.	
 
+## Assignment
+Zhao Zixuan \#15
+Gao Tong and Fang Haoyang \#9
+Vikram Sambamurthy \#4
+Hou Kaijun \#10
 
 ## Baselines
 1. \[Code Completion\] Code completion with statistical language models (PLDI 2014) 
