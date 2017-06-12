@@ -3,8 +3,11 @@ Baseline papers about deep coding. For each paper there is a permanent link, whi
 
 ## Assignment
 Zhao Zixuan \#15
+
 Gao Tong and Fang Haoyang \#9
+
 Vikram Sambamurthy \#4
+
 Hou Kaijun \#10
 
 ## Baselines
