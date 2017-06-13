@@ -8,7 +8,7 @@ Gao Tong and Fang Haoyang \#9
 
 Vikram Sambamurthy \#4
 
-Hou Kaijun \#10
+Hou Kaijun \#1
 
 ## Baselines
 1. \[Code Completion\] Code completion with statistical language models (PLDI 2014) 
