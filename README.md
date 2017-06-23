@@ -8,7 +8,7 @@ This guidance provides high-level goals and plans for the UROP (Undergraduate Re
   * Innovative industrial application ideas (optional)
 
 ## Plans
-### Practice -> Implementation -> Innovation/Application
+#### Practice -> Implementation -> Innovation/Application
 
 1. Learn and practice on deep learning basics(e.g., CNN, RNN, Attention, etc).
 
