@@ -14,7 +14,8 @@ Practice -> Implementation -> Innovation/Application
 
 2. Choose a baseline that you are interested in and try to implement it.
 
-3. Think about new ideas to improve the model you are implementing or;[Optional]
+3. Think about new ideas to improve the model you are implementing [Optional]
+<br><br>or
 <br><br>Find some interesting applications (especially in the code mining domain). [Optional]
 
 
