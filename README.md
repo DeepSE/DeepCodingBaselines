@@ -1,5 +1,23 @@
-# Deep Coding Baselines
-Baseline papers about deep coding. For each paper there is a permanent link, which is either to Arxiv.org or to a mirror of the original paper in this repository.	
+# Guidance for the UROP program
+This guidance provides high-level goals and plans for the UROP (Undergraduate Research Opportunities Program) project.
+
+## Goals
+  * Having fun and following your interest
+  * Becoming an expert in an area
+  * Strong implementation skills + theoretical background
+  * Innovative industrial application ideas (optional)
+
+## Plans
+Practice -> Implementation -> Innovation/Application
+
+1. Learn and practice on deep learning basics(e.g., CNN, RNN, Attention, etc).
+
+2. Choose a baseline that you are interested in and try to implement it.
+
+3. Think about new ideas to improve the model you are implementing or;[Optional]
+
+<br>Find some interesting applications (especially in the code mining domain). [Optional]
+
 
 ## Assignment
 Zhao Zixuan \#15
@@ -11,6 +29,12 @@ Vikram Sambamurthy \#4
 Hou Kaijun \#1
 
 ## Baselines
+Here we provide some popular baselines in our domain. They are about QA systems and deep language models or their applications in the code mining (deep coding) area. Each paper has links to the pdf/data/code. Please choose one you would like to implement. 
+During implementing, please read related papers and keep track of the state-of-art techniques/results of the same topic.  
+If you get any new ideas/thoughts/problems please discuss with Xiaodong Gu.
+
+NOTE: If you find interesting papers other than the list and would like to implement, please propose and discuss with Xiaodong Gu.
+
 1. \[Code Completion\] Code completion with statistical language models (PLDI 2014) 
    * Paper: [pdf](http://www.srl.inf.ethz.ch/papers/pldi14-statistical.pdf)
    * Code: TBD
