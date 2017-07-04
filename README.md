@@ -20,13 +20,13 @@ Find some interesting applications (especially in the code mining domain). [Opti
 
 
 ## Assignment
-Zhao Zixuan \#15
+Zhao Zixuan \#16
 
-Gao Tong and Fang Haoyang \#9
+Gao Tong and Fang Haoyang \#10
 
 Vikram Sambamurthy \#4
 
-Hou Kaijun \#1
+Hou Kaijun \#17
 
 ## Baselines
 Here we provide some popular baselines in our domain. They are about QA systems and deep language models or their applications in the code mining (deep coding) area. Each paper has links to the pdf/data/code. Please choose one you would like to implement. 
@@ -67,40 +67,48 @@ NOTE: If you find interesting papers other than the list and would like to imple
     * Paper: [pdf](https://www.aclweb.org/anthology/P/P16/P16-1195.pdf)
     * Data: [stack overflow](https://github.com/sriniiyer/codenn/tree/master/data/stackoverflow) 
     * Code: [github](https://github.com/sriniiyer/codenn)
+    
+8. \[Dialog\] Deep Reinforcement Learning for Dialogue Generation (EMNLP 2016)
+    * Paper: [arxiv](https://arxiv.org/pdf/1606.01541.pdf)
+    * Data:
+    * Code:
 
-8. \[Dialogue\] A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues (AAAI 2017)
+9. \[Dialogue\] A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues (AAAI 2017)
     * Paper: [pdf](https://github.com/DeepSE/DeepCodingBaselines/raw/master/papers/!2017AAAI-A-Hierarchical-Latent-Variable-Encoder-Decoder-Model-for-Generating-Dialogues.pdf) 
     * Code: [github](https://github.com/julianser/hed-dlg-truncated) 
 
-9. \[Dialogue\] Latent Variable Dialogue Models and their Diversity (EACL 2017) 
+10. \[Dialogue\] Latent Variable Dialogue Models and their Diversity (EACL 2017) 
     * Paper: [arxiv](https://arxiv.org/abs/1702.05962)
     * Code: TBD
 
-10. \[Dialogue\] Generating Long and Diverse Responses with Neural Conversation Models (ICLR 2017)
+11. \[Dialogue\] Generating Long and Diverse Responses with Neural Conversation Models (ICLR 2017)
     * Paper: [arxiv](https://arxiv.org/abs/1701.03185)
     * Code: TBD
 
-11. \[Dialogue\] Diverse Beam Search:Decoding Diverse Solutions from Neural Sequence Models (ICLR 2017)
+12. \[Dialogue\] Diverse Beam Search:Decoding Diverse Solutions from Neural Sequence Models (ICLR 2017)
     * Paper: [arxiv](https://arxiv.org/abs/1610.02424)
     * Code: [github](https://github.com/Cloud-CV/diverse-beam-search)
 
-12. \[Code Completion\] Learning Python Code Suggestion with a Sparse Pointer Network (ICLR 2017 Submitted)
+13. \[Code Completion\] Learning Python Code Suggestion with a Sparse Pointer Network (ICLR 2017 Submitted)
     * Paper: [Arxiv](https://arxiv.org/abs/1611.08307)
     * Code: [github](https://github.com/uclmr/pycodesuggest) 
 
-13. \[Commit Summarization\] A Neural Architecture for Generating Natural Language Descriptions from Source Code Changes (ACL 2017)
+14. \[Commit Summarization\] A Neural Architecture for Generating Natural Language Descriptions from Source Code Changes (ACL 2017)
     * Paper: [arxiv](https://arxiv.org/abs/1704.04856)
     * Data: [link](https://osf.io/67kyc/?view_only=ad588fe5d1a14dd795553fb4951b5bf9)
     * Code: [github](https://github.com/epochx/commitgen)
     
-14. \[Bug Fix\] DeepFix- Fixing Common C Language Errors by Deep Learning (AAAI 2017)
+15. \[Bug Fix\] DeepFix- Fixing Common C Language Errors by Deep Learning (AAAI 2017)
     * Paper: [pdf](http://www.iisc-seal.net/publications/aaai17.pdf?attredirects=0&d=1)
     * Code: [projsite](http://www.iisc-seal.net/deepfix)
     
-15. \[Overrun Detect\] End-to-End Prediction of Buffer Overruns from Raw Source Code via Neural Memory Networks (IJCAI 2017)
+16. \[Overrun Detect\] End-to-End Prediction of Buffer Overruns from Raw Source Code via Neural Memory Networks (IJCAI 2017)
     * Paper:[arxiv](https://arxiv.org/pdf/1703.02458.pdf)
     * Data: [github](https://github.com/mjc92/buffer_overrun_memory_networks)
     * Code: TBD
+    
+17. \[GAN Text\] Adversarial Feature Matching for Text Generation (ICML 2017)
+    * Paper:[arxiv](https://arxiv.org/pdf/1706.03850.pdf)
 
 
 ## Datasets
