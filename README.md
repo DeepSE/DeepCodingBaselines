@@ -37,7 +37,7 @@ NOTE: If you find interesting papers other than the list and would like to imple
 
 1. \[Code Completion\] Code completion with statistical language models (PLDI 2014) 
    * Paper: [pdf](http://www.srl.inf.ethz.ch/papers/pldi14-statistical.pdf)
-   * Code: TBD
+   * Code: [google drive](https://drive.google.com/file/d/0B0wMwmX05Ri7a056TllETHFEelU/view)
    
 2. \[Code Completion\] Toward deep learning software repositories (MSR 2015)
    * Paper: [pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.714.5031&rep=rep1&type=pdf)
