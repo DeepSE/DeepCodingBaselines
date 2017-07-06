@@ -74,7 +74,7 @@ NOTE: If you find interesting papers other than the list and would like to imple
     * Code:
 
 9. \[Dialogue\] A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues (AAAI 2017)
-    * Paper: [pdf](https://github.com/DeepSE/DeepCodingBaselines/raw/master/papers/!2017AAAI-A-Hierarchical-Latent-Variable-Encoder-Decoder-Model-for-Generating-Dialogues.pdf) 
+    * Paper: [arxiv](https://arxiv.org/abs/1605.06069) 
     * Code: [github](https://github.com/julianser/hed-dlg-truncated) 
 
 10. \[Dialogue\] Latent Variable Dialogue Models and their Diversity (EACL 2017) 
