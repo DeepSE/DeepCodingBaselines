@@ -113,7 +113,7 @@ NOTE: If you find interesting papers other than the list and would like to imple
 
 ## Datasets
 
-### Dialogue - Retrieval
+### QA - Retrieval
 |No|Title|Paper|Blogs|Code|
 |---|---|---|---|---|
 |1|[Ubuntu Dialogue Corpus](https://drive.google.com/open?id=0B_bZck-ksdkpVEtVc1R6Y01HMWM)|[arxiv](https://arxiv.org/abs/1506.08909)|[Tutorial:chatbot-retrieval](http://www.wildml.com/2016/07/deep-learning-for-chatbots-2-retrieval-based-model-tensorflow/)|[corpus collector](https://github.com/npow/ubottu)<br/> [corpus collector v2](https://github.com/rkadlec/ubuntu-ranking-dataset-creator)<br/> [chatbot-retrieval](https://github.com/dennybritz/chatbot-retrieval)|
