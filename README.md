@@ -106,9 +106,13 @@ NOTE: If you find interesting papers other than the list and would like to imple
     * Paper:[arxiv](https://arxiv.org/pdf/1703.02458.pdf)
     * Data: [github](https://github.com/mjc92/buffer_overrun_memory_networks)
     * Code: TBD
-    
+   
 17. \[GAN Text\] Adversarial Feature Matching for Text Generation (ICML 2017)
     * Paper:[arxiv](https://arxiv.org/pdf/1706.03850.pdf)
+    
+18. \[Dialog\] Latent Intention Dialogue Models (ICML 2017)
+    * Paper:[arxiv](https://arxiv.org/pdf/1705.10229.pdf)
+    * Code: [github](https://github.com/shawnwun/NNDIAL)
 
 
 ## Datasets
